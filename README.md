@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ldotus
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
