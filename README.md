@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ldotus
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C# 
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me 
 
 <!---
 Ldotus/Ldotus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
