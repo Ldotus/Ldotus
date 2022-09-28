@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ldotus
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning Java however have used other languages for other purposes.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me 
 
